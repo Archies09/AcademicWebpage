@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/achintyadesai"
       
-    - label: "LinkedIn"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/achintyadesai/"
     
@@ -95,6 +95,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/achintyadesai"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/achintyadesai/"
+    
 
 defaults:
   # _posts
