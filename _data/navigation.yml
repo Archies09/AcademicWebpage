@@ -5,7 +5,7 @@ main:
   #  url: /categories/
   #- title: "Tags"
   #  url: /tags/
-  - title: TAship
-    url: /taship/
+  - title: Co-Curricular
+    url: /cocurricular/
   - title: "About"
     url: /
