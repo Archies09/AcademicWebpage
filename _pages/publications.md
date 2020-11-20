@@ -8,8 +8,8 @@ title: "Publications"
 <pre> Manuscript <a href="https://eprint.iacr.org/2020/1337" style="color:red;">pdf</a></pre></li>
 <li><h6>Byzantine Agreement in a partially synchronous network</h6>
 <pre> Achintya Desai, Shubham Raj and Kannan Srinathan</pre>
-<pre> Manuscript Coming Soon...
+<pre> Manuscript Coming Soon...</pre></li>
 <li><h6>Mutli-Party Computation from channel assumptions</h6>
 <pre> Achintya Desai</pre>
-<pre> Thesis Coming Soon...
+<pre> Thesis Coming Soon...</pre></li>
 </ul>
