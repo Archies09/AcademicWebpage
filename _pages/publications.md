@@ -9,7 +9,8 @@ title: "Publications"
 <li><h6>Byzantine Agreement in a partially synchronous network</h6>
 <pre> Achintya Desai, Shubham Raj and Kannan Srinathan</pre>
 <pre> Manuscript Coming Soon...</pre></li>
-<li><h6>Mutli-Party Computation from channel assumptions</h6>
+<li><h6>Channel asynchrony and communication complexity in Multi-Party
+Computation</h6>
 <pre> Achintya Desai</pre>
-<pre> Thesis Coming Soon...</pre></li>
+<pre> Thesis</pre></li>
 </ul>
