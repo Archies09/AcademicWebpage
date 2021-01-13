@@ -8,7 +8,7 @@ title: "Publications"
 <pre> Manuscript <a href="https://eprint.iacr.org/2020/1337" style="color:red;">pdf</a></pre></li>
 <li><h6>A Survey of Privacy-Preserving Techniques for Encrypted TrafficInspection over Network Middleboxes</h6>
   <pre> GS Poh, DM Divakaran, HW Lim, J Ning, A Desai</pre>
-  <pre> Eprint link will be uploaded soon... </pre></li>
+  <pre> Manuscript <a href="https://arxiv.org/abs/2101.04338" style="color:red;">pdf</a></pre></li>
 <li><h6>Byzantine Agreement in a partially synchronous network</h6>
 <pre> A Desai, S Raj, K Srinathan</pre>
 <pre> Eprint link will be uploaded soon... </pre></li>
