@@ -1,5 +1,5 @@
 ---
-permalink: /cocurricular/
+permalink: /teaching/
 title: ""
 ---
 <h5> TAship Experience </h5>
