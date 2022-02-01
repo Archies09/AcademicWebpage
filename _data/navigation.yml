@@ -5,7 +5,7 @@ main:
   #  url: /categories/
   #- title: "Tags"
   #  url: /tags/
-  - title: "Co-Curricular"
+  - title: "Teaching"
     url: /cocurricular/
   - title: "About"
     url: /
