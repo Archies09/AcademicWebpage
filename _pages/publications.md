@@ -5,7 +5,7 @@ title: "Publications"
 <ul>
 <li><h6>NBSAP: Noisy Biometric Secure Authentication Protocol</h6>
 <pre> A Desai, P Manvi, A Namboodiri, K Srinathan</pre>
-<pre> Accepted at International Joint Conference on Biometrics (IJCB) 2022</pre>
+  <pre> Accepted at </br> International Joint Conference on Biometrics (IJCB) 2022</pre>
 <pre> Eprint link will be uploaded soon... </pre></li>
 <li><h6>Multiplicative Depth Independent & Efficient MPC in the Presence of Mixed Adversary</h6>
 <pre> A Desai, S Raj, K Srinathan</pre>
